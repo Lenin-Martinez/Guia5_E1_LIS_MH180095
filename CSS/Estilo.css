@@ -1,0 +1,39 @@
+body
+{
+    background-color: salmon;
+}
+.Inputs
+{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.texto
+{
+    font-size: 25px;
+    border-radius: 30px;
+    text-align: center;
+}
+.zonaBoton
+{
+    text-align: center;
+    padding-top: 1%;
+}
+.boton{
+    background-color: cyan;
+    font-size: 30px;
+    width: 25%;
+    border-radius: 20px;
+}
+.Resultados
+{
+    background-color: lightblue;
+
+    width: 20%;
+    margin-left: 40%;
+    border-radius: 30px;
+
+    text-align: center;
+    font-size: 25px;
+}
